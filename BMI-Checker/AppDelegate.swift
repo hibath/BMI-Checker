@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  BMI-Checker
 //
-//  Created by Hiba Agha on 30.05.23.
+//  Created by Heba Thabet Agha on 06.04.22.
 //
 
 import UIKit
